@@ -1,0 +1,35 @@
+body{
+    background-color: aqua;
+}
+
+.title{
+    color: brown;
+    text-align: ;
+}
+
+
+.sect{
+    background-color: aquamarine;
+    text-align: center;
+}
+
+
+body{
+    
+}
+
+#blue{
+    color: blue;
+}
+
+.hero{
+    background-image: url(./logo.jpg);
+
+}
+
+.header{
+  height: 500px;
+  width: 100%;
+  text-align: center;
+  color: white;
+}
